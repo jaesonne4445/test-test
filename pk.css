@@ -1,0 +1,34 @@
+
+
+.bg {
+    background-color:white;
+    padding: 10px 0;s
+
+   }
+
+
+   body{
+   	font-family: Chalkduster;
+   	color: white;
+
+   }
+
+h1{
+	colour: black;
+}
+#myCarousel > div > div.carousel-item.active > img
+
+
+#online > div > div:nth-child(2) > div > div{
+	background-color:black;
+}
+#content > div.yourlifeyoga > div > div > div:nth-child(2) > div > p{
+	color: black;
+}
+#content > div.yourlifeyoga > div > div > div:nth-child(1) > div > h2{
+	color:black;
+}
+#content > header > div.head-top > div > div > div:nth-child(2) > div > a > img{
+
+	background-color: transparent;
+}
